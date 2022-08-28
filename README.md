@@ -1,3 +1,4 @@
+![initdev](https://i.ibb.co/D7LMJB9/static-6.png)
 <h1 align="center">Team IniTDev</h1>
 <h3 align="center">IniTDev is a Bot and Application Development Team run by a group of developers in Discord.</h3>
 
