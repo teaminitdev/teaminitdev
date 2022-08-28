@@ -1,9 +1,7 @@
-<h1 align="center">Team IniTDec</h1>
+<h1 align="center">Team IniTDev</h1>
 <h3 align="center">IniTDev is a Bot and Application Development Team run by a group of developers in Discord.</h3>
 
 - 🌐 Join our Server **https://discord.gg/q6pAuCE8xh**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
